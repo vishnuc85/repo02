@@ -40,4 +40,4 @@ fi
 # Fix source directory permissions
 fix-permissions ./
 
-echo "This is again customization ---- cprakash " > ./info.html
+echo "This is again customization ----Vishnu " >> ./info.html
